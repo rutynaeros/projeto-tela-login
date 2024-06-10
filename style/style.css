@@ -28,7 +28,7 @@ main {
     transform: translate(-50%,-50%);
 
     background-color: white;
-    width: 350px;
+    width: 320px;
     border-radius: 20px;
     box-shadow: 1px 1px 20px #0000007e;
     overflow: hidden;
@@ -48,7 +48,6 @@ form {
 .login p {
     margin: 10px;
     line-height: 1.2em;
-    font-size: .9em;
 }
 
 div#email {

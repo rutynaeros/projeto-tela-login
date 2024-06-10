@@ -1,5 +1,15 @@
 @charset "UTF-8";
 
+@media screen and (max-width: 600px) {
+    main {
+        height: 520px;
+    }
+
+    .login p {
+        font-size: .7em;
+    }
+}
+
 @media screen and (max-width: 767px) {
     div.bg-image {
         width: 100%;
